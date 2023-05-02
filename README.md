@@ -1,6 +1,5 @@
 - 👋 Hi, I’m OluwaTimilehin.
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning NodeJS though to become a full-stack developer.
+- 👀 I’m interested in fullstack development.
 - 💞️ I’m looking to collaborate on any frontend projects.
 - 📫 You can send me a mail at adedayotimilehin10@gmail.com
 
