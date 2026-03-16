@@ -3,17 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
-- 🌱 I’m currently learning **mobile app development.**
+- 🌱 I’m currently learning **Python.**
 
 - 👯 I’m looking to collaborate on **any web development project.**
 
-- 👨‍💻 All of my projects are available at [My Portfolio Website](https://samuelaluko.vercel.app)
+- 👨‍💻 All of my projects are available at [my website](https://samuelaluko.vercel.app)
 
-- 💬 Ask me about **React, Next.js, JavaScript and TypeScript.**
+- 💬 Ask me about **React, Next.js, JavaScript, and TypeScript.**
 
 - 📫 You can reach me at **alukosamuel25@gmail.com**
 
-- 📄 Know about my experiences by checking out [My Resume/CV](https://drive.google.com/file/d/1eHWdBWBRPQqxihr-EEJtF_53FdnjKhGY/view)
+- 📄 Know about my experiences by checking out [my Resume/CV](https://drive.google.com/file/d/1eHWdBWBRPQqxihr-EEJtF_53FdnjKhGY/view)
 
 - ⚡ Fun fact: **I'm a medical student (don't know if that's fun to say though)**
 
