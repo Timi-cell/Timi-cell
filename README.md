@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm SAMUEL OLUWATIMILEHIN ALUKO.</h1>
-<h2 align="center">I'm known as THE CRACK DEV.</h2>
+<h2 align="center">I'm known as <b>THE CRACK DEV.</b></h2>
 <h3 align="center">A frontend & low-code backend developer from Nigeria.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Python** (I really feel like adding this to my stack).
 
 - 👯 I’m looking to collaborate on **any web development project.**
 
@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at **alukosamuel25@gmail.com**
 
-- 📄 Know about my experiences by checking out [my Resume/CV](https://drive.google.com/file/d/1eHWdBWBRPQqxihr-EEJtF_53FdnjKhGY/view)
+- 📄 Know about my experiences by checking out [my resume/cv](https://drive.google.com/drive/my-drive)
 
 - ⚡ Fun fact: **I'm a medical student (don't know if that's fun to say though)**
 
