@@ -1,5 +1,6 @@
-<h1 align="center">Hi there👋, I'm Samuel Oluwatimilehin Aluko.</h1>
-<h3 align="center">A passionate frontend-focused software developer from Nigeria.</h3>
+<h1 align="center">Hi there, I'm SAMUEL OLUWATIMILEHIN ALUKO.</h1>
+<h2 align="center">I'm known as THE CRACK DEV.</h2>
+<h3 align="center">A frontend & low-code backend developer from Nigeria.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
