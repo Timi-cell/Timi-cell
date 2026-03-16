@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences by checking out [my resume/cv](https://drive.google.com/file/d/10ZOBA5CUNFlmiB4Xw9t6Qe8hkODr8N3n/view)
 
-- ⚡ Fun fact: **I'm a medical student (don't know if that's fun to say though)**
+- ⚡ Fun fact: **I'm a medical student!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
