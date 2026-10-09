@@ -4,15 +4,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
-- 👯 I’m looking to collaborate on **any web development project.**
+- Reach out for **any web development project.**
 
-- 👨‍💻 All of my projects are available at [my website](https://samuelaluko.vercel.app)
+- You can find my portfolio here (https://samuelaluko.vercel.app)
 
-- 💬 Ask me about **React, Next.js, JavaScript, and TypeScript.**
+- You can reach me at **alukosamuel25@gmail.com**
 
-- 📫 You can reach me at **alukosamuel25@gmail.com**
-
-- 📄 Know about my experience by checking out [my resume/cv](https://drive.google.com/file/d/19abm5KM3Sf5T8hw7knKWg7IwMdv4PQju/view)
+- Know about my work experience here [my resume/cv](https://drive.google.com/file/d/19abm5KM3Sf5T8hw7knKWg7IwMdv4PQju/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
