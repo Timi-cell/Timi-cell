@@ -4,17 +4,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
-- Reach out for **any web development project.**
+- Open to **any web development project.**
 
 - You can find my portfolio here (https://samuelaluko.vercel.app)
-
-- You can reach me at **alukosamuel25@gmail.com**
 
 - Know about my work experience here [my resume/cv](https://drive.google.com/file/d/19abm5KM3Sf5T8hw7knKWg7IwMdv4PQju/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/heistimiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heistimiii" height="30" width="40" /></a>
+<a href="https://twitter.com/heistimiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="heistimiii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuelaluko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelaluko" height="30" width="40" /></a>
 </p>
 
