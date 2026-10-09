@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm SAMUEL OLUWATIMILEHIN ALUKO.</h1>
 <h2 align="center">I'm known as <b>THE CRACK DEV.</b></h2>
-<h3 align="center">A frontend & low-code backend developer from Nigeria.</h3>
+<h3 align="center">A Software Developer from Nigeria.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Timi-cell&label=Profile%20views&color=0e75b6&style=flat" alt="Timi-cell" /> </p>
 
-- Open to **any web development project.**
+- I'm open to **web development projects.**
 
 - You can find my portfolio here (https://samuelaluko.vercel.app)
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/heistimiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="heistimiii" height="30" width="40" /></a>
+<a href="https://twitter.com/heistimiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heistimiii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samuelaluko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuelaluko" height="30" width="40" /></a>
 </p>
 
