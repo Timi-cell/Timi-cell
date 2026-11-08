@@ -6,9 +6,9 @@
 
 - I'm open to **web development projects.**
 
-- You can find my portfolio here (https://samuelaluko.vercel.app)
+- You can find my portfolio here (https://www.samuelaluko.com)
 
-- Know about my work experience here [my resume/cv](https://drive.google.com/file/d/19abm5KM3Sf5T8hw7knKWg7IwMdv4PQju/view)
+- Know about my work experience here [my resume](https://drive.google.com/file/d/19abm5KM3Sf5T8hw7knKWg7IwMdv4PQju/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
